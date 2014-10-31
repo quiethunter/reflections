@@ -1,1 +1,2 @@
-Heeere's your text
+When would you want to use a remote repository rather than keeping all your work local?
+Collaboration.  Remote work.  Multiple computers.  Sharing.
