@@ -1,0 +1,15 @@
+What happens when you initialize a repository? Why do you need to do it?
+When you initialize a repository, Git creates the .Git directory 
+that will contain all the version information.  The repository does
+not contain any files at this point, they must be added.  There are no 
+commits yet, either.  This step is necessary to create the basic structure 
+that git needs to formulate the repository.
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+The staging area provides a place to add files to 
+be committed.  This allows us to choose what to commit, 
+rather than simply dumping the contents of the directory 
+to the repository. This staging area is temporary, in that
+the files are there only to be transferred to the repository.
+This provides an orderly way to control the addition of 
+versions to the repository.
