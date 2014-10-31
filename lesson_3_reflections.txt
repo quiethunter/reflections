@@ -5,3 +5,12 @@ Why might you want to always pull changes manually
 rather than having Git automatically stay up-to-date with your remote repository?
 There might be times when your work is not
 ready for being put in the public domain.
+
+Describe the differences between forks, clones, and branches. When would you use one instead of another?
+Forks are copied from Github to github.  This is a way
+of maintaining attribution while copying someone's work
+to modify for your own needs.
+Clones are copies from Gitrhub to local or local to local that
+represent alternate storage of your own work.
+Branches are extensions of your own work that remain resident within the 
+repository.  they are used to explore alternatives when coding.
